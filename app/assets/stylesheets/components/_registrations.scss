@@ -1,0 +1,30 @@
+.container-registration {
+  background-image: image-url('bg-settings.png');
+  background-size: cover;
+  min-height: calc(100vh - 8.75rem);
+}
+.registration-wrapper {
+  color: #bababb;
+  background-color: #4a4a4a;
+  border-radius: .25rem;
+}
+.registration-button {
+  width: 100%;
+  height: 2.6rem;
+  background-color: #d61412;
+  color: white;
+  font-weight: bold;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+.registration-button :hover {
+
+}
+.w-50 a,
+.w-auto a {
+  text-decoration: none;
+  color: #bababb;
+}
+hr {
+  border-color: #bababb;
+}
