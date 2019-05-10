@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
-ruby '2.3.5'
+ruby '2.5.3'
 
 
-gem 'devise'
+gem 'devise', ">= 4.6.0"
 gem 'jbuilder', '~> 2.0'
 gem 'pg', '~> 0.21'
 gem 'puma'
@@ -12,7 +12,7 @@ gem 'cloudinary', '~> 1.9.1'
 gem 'carrierwave', '~> 1.2'
 gem 'popper_js', '~> 1.14', '>= 1.14.5'
 gem 'autoprefixer-rails'
-gem 'bootstrap', '~> 4.1.3'
+gem 'bootstrap', '>= 4.3.1'
 gem 'font-awesome-sass', '~> 5.5', '>= 5.5.0.1'
 gem 'sassc-rails'
 gem 'simple_form'
