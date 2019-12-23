@@ -9,7 +9,7 @@
   align-items: center;
   justify-content: space-between;
   a {
-    color: red;
+    color: #333333;
   }
 }
 
@@ -41,12 +41,12 @@
 
 /* Navbar link */
 .navbar-classic-link {
-  color: red;
+  color: #333;
   font-size: 1rem;
   font-weight: bold;
 }
 .navbar-classic-link:hover {
-  color: #585658;
+  color: black;
   text-decoration: none;
 }
 
