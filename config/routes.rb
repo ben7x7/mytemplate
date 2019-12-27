@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   root to: 'pages#home'
 
   get 'homebis', to: 'pages#homebis', as: :homebis
+  get 'hometris', to: 'pages#hometris', as: :hometris
 
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
