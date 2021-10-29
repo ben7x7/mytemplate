@@ -6,13 +6,13 @@ gem 'devise', ">= 4.6.0"
 gem 'jbuilder', '~> 2.0'
 gem 'pg', '~> 0.21'
 gem 'puma'
-gem 'rails'
+gem 'rails', '5.1.6'
 gem 'redis'
 gem 'cloudinary', '~> 1.9.1'
 gem 'carrierwave', '~> 1.3'
 gem 'popper_js', '~> 1.14', '>= 1.14.5'
 gem 'autoprefixer'
-gem 'bootstrap'
+gem 'bootstrap', '>= 4.3.1'
 gem 'font-awesome-sass', '~> 5.5', '>= 5.5.0.1'
 gem 'sassc-rails'
 gem 'simple_form'
@@ -33,3 +33,4 @@ group :development, :test do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'dotenv-rails'
 end
+
