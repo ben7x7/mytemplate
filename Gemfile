@@ -4,7 +4,7 @@ ruby '2.7.3'
 
 gem 'devise', ">= 4.6.0"
 gem 'jbuilder', '~> 2.0'
-gem 'pg', '~> 0.21'
+gem 'pg'
 gem 'puma'
 gem 'rails', '7.0.1'
 gem 'redis'
