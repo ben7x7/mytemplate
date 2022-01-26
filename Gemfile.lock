@@ -243,6 +243,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  actionpack
   autoprefixer
   bootstrap (>= 4.3.1)
   carrierwave (~> 1.3)
