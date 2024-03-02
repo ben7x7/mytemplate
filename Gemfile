@@ -6,7 +6,7 @@ gem 'devise', ">= 4.6.0"
 gem 'jbuilder', '~> 2.0'
 gem 'pg'
 gem 'puma'
-gem 'rails', '7.0.5.1'
+gem 'rails', '7.1.3.2'
 gem 'redis'
 gem 'cloudinary', '~> 1.9.1'
 gem 'carrierwave', '~> 2.2'
